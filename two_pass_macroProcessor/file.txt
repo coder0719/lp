@@ -1,0 +1,4 @@
+START
+ADD X, Y
+SUB Z, W
+END
